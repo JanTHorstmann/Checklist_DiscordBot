@@ -131,3 +131,6 @@ client.on('interactionCreate', async interaction => {
         }
     }
 });
+
+// Logging for Your Bot Token
+//--------------------------//
